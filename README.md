@@ -22,6 +22,6 @@
  7. Pick-up effects:           As level increases player's health increases by 2
 
  Link to video demonstration for final submission:
- - 
+ - https://youtu.be/ktZVBSqN9Fs
 
 #####################################################################
